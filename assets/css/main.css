@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-color: teal;
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
@@ -1366,7 +1366,7 @@ input, select, textarea {
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #363636;
+		color: teal;
 	}
 
 	h1 {
